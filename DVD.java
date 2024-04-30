@@ -1,4 +1,4 @@
-package Questão01;
+package Questão;
 import java.util.Scanner;
 
 public class DVD extends Midia{
